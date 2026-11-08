@@ -1,0 +1,22 @@
+
+#local
+workspace/
+web/
+*.html
+*.py
+*.json
+*.js
+*.txt
+*.yaml
+style.css
+NOTES.md
+
+#Malformed or missing info
+04-ll-library/function/ll.ClearExperience.md
+04-ll-library/function/ll.ClearExperiencePermissions.md
+04-ll-library/function/ll.GetExperienceList.md
+04-ll-library/function/ll.SetExperienceKey.md
+
+#local only
+
+
