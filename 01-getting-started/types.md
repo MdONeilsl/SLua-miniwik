@@ -195,7 +195,7 @@ local dir = vector(0, 1, 0)
 
 ## quaternion
 ---
-A four-component float structure representing a rotation. `rotation` is an alias for `quaternion`; the two names refer to the same type and are interchangeable in annotations, casts, and function signatures. The library is documented in 03-standard-library/quaternion.
+A four-component float structure representing a rotation. `rotation` is an alias for `quaternion`; the two names refer to the same type and are interchangeable in annotations, casts, and function signatures. The library is documented in 03-standard-library/modules/quaternion.
 
 ```lua
 local q = quaternion(0, 0, 0, 1)
